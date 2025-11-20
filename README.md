@@ -107,7 +107,7 @@ Sistemas señuelo para detectar y analizar ataques.
 
 ## <a name="contribuir"></a>🤝 Contribuir
 
-¡Las contribuciones son bienvenidas! Por favor, lee las [guías de contribución](CONTRIBUTING.md) antes de enviar un PR.
+¡Las contribuciones son bienvenidas! 
 
 1.  Haz un Fork del proyecto.
 2.  Crea tu rama de funcionalidad (`git checkout -b feature/AmazingFeature`).
