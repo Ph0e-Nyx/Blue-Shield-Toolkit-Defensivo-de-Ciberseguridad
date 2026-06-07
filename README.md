@@ -1,5 +1,7 @@
 <div align="center">
-  <h1>🛡️ AWESOME BLUE TEAM TOOLS</h1>
+  <br>
+
+  <h1 id="inicio"><img src="https://img.icons8.com/ios/256/FFFFFF/shield.png" width="35" valign="middle">&nbsp; AWESOME BLUE TEAM TOOLS</h1>
 
   <a href="https://awesome.re"><img src="https://img.shields.io/badge/Awesome-000000?style=for-the-badge&logo=awesomelists&logoColor=white"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-000000?style=for-the-badge&logo=opensourceinitiative&logoColor=white"></a>
@@ -12,7 +14,7 @@
 
 <br><br>
 
-<!-- SEPARADOR: TABLA DE CONTENIDOS -->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&text=TABLA%20DE%20CONTENIDOS&fontColor=000000&height=40&fontSize=20" width="100%"/>
 </div>
@@ -33,7 +35,7 @@
 </div>
 <br><br>
 
-<!-- SEPARADOR: SIEM -->
+
 <a name="siem"></a>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&text=SIEM&fontColor=000000&height=40&fontSize=22" width="100%"/>
@@ -51,7 +53,7 @@
 
 <br><br>
 
-<!-- SEPARADOR: NETWORK -->
+
 <a name="network-security-monitoring"></a>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&text=NETWORK%20SECURITY%20MONITORING&fontColor=000000&height=40&fontSize=22" width="100%"/>
@@ -70,7 +72,7 @@
 
 <br><br>
 
-<!-- SEPARADOR: INCIDENT RESPONSE -->
+
 <a name="incident-response--forensics"></a>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&text=INCIDENT%20RESPONSE%20&%20FORENSICS&fontColor=000000&height=40&fontSize=22" width="100%"/>
@@ -89,7 +91,7 @@
 
 <br><br>
 
-<!-- SEPARADOR: THREAT INTEL -->
+
 <a name="threat-intelligence"></a>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&text=THREAT%20INTELLIGENCE&fontColor=000000&height=40&fontSize=22" width="100%"/>
@@ -105,7 +107,7 @@
 
 <br><br>
 
-<!-- SEPARADOR: EDR -->
+
 <a name="endpoint-security--edr"></a>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&text=ENDPOINT%20SECURITY%20&%20EDR&fontColor=000000&height=40&fontSize=22" width="100%"/>
@@ -122,7 +124,7 @@
 
 <br><br>
 
-<!-- SEPARADOR: MALWARE -->
+
 <a name="malware-analysis"></a>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&text=MALWARE%20ANALYSIS&fontColor=000000&height=40&fontSize=22" width="100%"/>
@@ -139,7 +141,7 @@
 
 <br><br>
 
-<!-- SEPARADOR: HONEYPOTS -->
+
 <a name="honeypots"></a>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&text=HONEYPOTS&fontColor=000000&height=40&fontSize=22" width="100%"/>
@@ -155,20 +157,20 @@
 
 <br><br>
 
-<!-- SEPARADOR: RECURSOS -->
+
 <a name="recursos-adicionales"></a>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&text=RECURSOS%20ADICIONALES&fontColor=000000&height=40&fontSize=22" width="100%"/>
 </div>
 <br>
 
-* **[Blue Team Handbook](https://www.amazon.com/Blue-Team-Handbook-Incident-Response/dp/1500734756)** - Un libro de referencia rápida para respuesta a incidentes.
-* **[SANS Blue Team Wiki](https://wiki.sans.blue/)** - Wiki de la comunidad SANS para defensa.
-* **[Mitre ATT&CK](https://attack.mitre.org/)** - Base de conocimiento de tácticas y técnicas de adversarios.
+* <img src="https://img.icons8.com/ios/256/FFFFFF/book.png" width="18" valign="middle"> **[Blue Team Handbook](https://www.amazon.com/Blue-Team-Handbook-Incident-Response/dp/1500734756)** - Un libro de referencia rápida para respuesta a incidentes.
+* <img src="https://img.icons8.com/ios/256/FFFFFF/wikipedia.png" width="18" valign="middle"> **[SANS Blue Team Wiki](https://wiki.sans.blue/)** - Wiki de la comunidad SANS para defensa.
+* <img src="https://img.icons8.com/ios/256/FFFFFF/grid.png" width="18" valign="middle"> **[Mitre ATT&CK](https://attack.mitre.org/)** - Base de conocimiento de tácticas y técnicas de adversarios.
 
 <br><br>
 
-<!-- SEPARADOR: CONTRIBUIR -->
+
 <a name="contribuir"></a>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&text=CONTRIBUIR&fontColor=000000&height=40&fontSize=22" width="100%"/>
@@ -177,18 +179,31 @@
 
 ¡Las contribuciones son bienvenidas!
 
-1. Haz un Fork del proyecto.
-2. Crea tu rama de funcionalidad (`git checkout -b feature/AmazingFeature`).
-3. Haz Commit de tus cambios (`git commit -m 'Add some AmazingFeature'`).
-4. Haz Push a la rama (`git push origin feature/AmazingFeature`).
-5. Abre un Pull Request.
+1. <img src="https://img.icons8.com/ios/256/FFFFFF/code-fork.png" width="18" valign="middle"> Haz un Fork del proyecto.
+2. <img src="https://img.icons8.com/ios/256/FFFFFF/git.png" width="18" valign="middle"> Crea tu rama de funcionalidad (`git checkout -b feature/AmazingFeature`).
+3. <img src="https://img.icons8.com/ios/256/FFFFFF/commit-git.png" width="18" valign="middle"> Haz Commit de tus cambios (`git commit -m 'Add some AmazingFeature'`).
+4. <img src="https://img.icons8.com/ios/256/FFFFFF/upload.png" width="18" valign="middle"> Haz Push a la rama (`git push origin feature/AmazingFeature`).
+5. <img src="https://img.icons8.com/ios/256/FFFFFF/pull-request.png" width="18" valign="middle"> Abre un Pull Request.
 
 <br><br>
 
-<!-- SEPARADOR: LICENCIA -->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&text=LICENCIA&fontColor=000000&height=40&fontSize=22" width="100%"/>
 </div>
 <br>
 
 <p align="center">Distribuido bajo la licencia MIT. Ver <code>LICENSE</code> para más información.</p>
+
+<br><br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer&text=Blue%20Team%20Tools&fontSize=30&fontColor=000000&animation=twinkling&fontAlignY=70" width="100%"/>
+</div>
+
+<div align="center">
+  <br>
+  <sub>Mantenido por <strong>Ph0e-Nyx</strong></sub>
+  <br><br>
+  <a href="#inicio"><img src="https://img.shields.io/badge/Volver_al_inicio-000000?style=for-the-badge&logo=up-arrow&logoColor=white"></a>
+</div>
