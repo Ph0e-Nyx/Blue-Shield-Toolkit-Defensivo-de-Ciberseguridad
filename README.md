@@ -1,30 +1,46 @@
-# 🛡️ Awesome Blue Team Tools
+<div align="center">
+  <h1>🛡️ AWESOME BLUE TEAM TOOLS</h1>
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+  <a href="https://awesome.re"><img src="https://img.shields.io/badge/Awesome-000000?style=for-the-badge&logo=awesomelists&logoColor=white"></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-000000?style=for-the-badge&logo=opensourceinitiative&logoColor=white"></a>
+  <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs_Welcome-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+  
+  <br><br>
 
-> Una colección curada de herramientas, recursos y software esenciales para equipos de **Blue Teaming**, Respuesta a Incidentes y Ciberdefensa.
+  > Una colección curada de herramientas, recursos y software esenciales para equipos de **Blue Teaming**, Respuesta a Incidentes y Ciberdefensa.
+</div>
 
----
+<br><br>
 
-## 📋 Tabla de Contenidos
+<!-- SEPARADOR: TABLA DE CONTENIDOS -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&text=TABLA%20DE%20CONTENIDOS&fontColor=000000&height=40&fontSize=20" width="100%"/>
+</div>
+<br>
 
-- [SIEM (Security Information and Event Management)](#siem)
-- [Network Security Monitoring](#network-security-monitoring)
-- [Incident Response & Forensics](#incident-response--forensics)
-- [Threat Intelligence](#threat-intelligence)
-- [Endpoint Security & EDR](#endpoint-security--edr)
-- [Malware Analysis](#malware-analysis)
-- [Honeypots](#honeypots)
-- [Recursos Adicionales](#recursos-adicionales)
-- [Contribuir](#contribuir)
+<div align="center">
+  <a href="#siem"><img src="https://img.shields.io/badge/SIEM-000000?style=for-the-badge&logo=elastic&logoColor=white"></a>
+  <a href="#network-security-monitoring"><img src="https://img.shields.io/badge/Network_Security-000000?style=for-the-badge&logo=wireshark&logoColor=white"></a>
+  <a href="#incident-response--forensics"><img src="https://img.shields.io/badge/IR_%26_Forensics-000000?style=for-the-badge&logo=linux&logoColor=white"></a>
+  <a href="#threat-intelligence"><img src="https://img.shields.io/badge/Threat_Intel-000000?style=for-the-badge&logo=torproject&logoColor=white"></a>
+  <br><br>
+  <a href="#endpoint-security--edr"><img src="https://img.shields.io/badge/Endpoint_Security-000000?style=for-the-badge&logo=windows&logoColor=white"></a>
+  <a href="#malware-analysis"><img src="https://img.shields.io/badge/Malware_Analysis-000000?style=for-the-badge&logo=kalilinux&logoColor=white"></a>
+  <a href="#honeypots"><img src="https://img.shields.io/badge/Honeypots-000000?style=for-the-badge&logo=docker&logoColor=white"></a>
+  <br><br>
+  <a href="#recursos-adicionales"><img src="https://img.shields.io/badge/Recursos-000000?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
+  <a href="#contribuir"><img src="https://img.shields.io/badge/Contribuir-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+</div>
+<br><br>
 
----
+<!-- SEPARADOR: SIEM -->
+<a name="siem"></a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&text=SIEM&fontColor=000000&height=40&fontSize=22" width="100%"/>
+</div>
+<br>
 
-## <a name="siem"></a>👁️ SIEM
-
-Gestión de información y eventos de seguridad para centralizar y analizar logs.
+<p align="center">Gestión de información y eventos de seguridad para centralizar y analizar logs.</p>
 
 | Herramienta | Descripción | Licencia |
 | :--- | :--- | :--- |
@@ -33,9 +49,16 @@ Gestión de información y eventos de seguridad para centralizar y analizar logs
 | **[AlienVault OSSIM](https://cybersecurity.att.com/products/ossim)** | SIEM de código abierto que proporciona una visión unificada de los controles de seguridad y el estado de cumplimiento. | Open Source |
 | **[Splunk Free](https://www.splunk.com/en_us/software/splunk-enterprise/free-trial.html)** | Versión gratuita de la popular plataforma para buscar, monitorizar y analizar datos de máquinas (limitada por volumen diario). | Propietario (Free Tier) |
 
-## <a name="network-security-monitoring"></a>🌐 Network Security Monitoring
+<br><br>
 
-Herramientas para monitorizar y analizar el tráfico de red en busca de anomalías.
+<!-- SEPARADOR: NETWORK -->
+<a name="network-security-monitoring"></a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&text=NETWORK%20SECURITY%20MONITORING&fontColor=000000&height=40&fontSize=22" width="100%"/>
+</div>
+<br>
+
+<p align="center">Herramientas para monitorizar y analizar el tráfico de red en busca de anomalías.</p>
 
 | Herramienta | Descripción | Licencia |
 | :--- | :--- | :--- |
@@ -45,9 +68,16 @@ Herramientas para monitorizar y analizar el tráfico de red en busca de anomalí
 | **[Wireshark](https://www.wireshark.org/)** | El analizador de protocolos de red más utilizado del mundo. Esencial para el análisis profundo de paquetes. | Open Source |
 | **[Arkime (formerly Moloch)](https://arkime.com/)** | Sistema de captura de paquetes e indexación a gran escala, con una interfaz web para explorar los datos PCAP. | Open Source |
 
-## <a name="incident-response--forensics"></a>🔍 Incident Response & Forensics
+<br><br>
 
-Herramientas para la respuesta ante incidentes, adquisición de evidencias y análisis forense digital.
+<!-- SEPARADOR: INCIDENT RESPONSE -->
+<a name="incident-response--forensics"></a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&text=INCIDENT%20RESPONSE%20&%20FORENSICS&fontColor=000000&height=40&fontSize=22" width="100%"/>
+</div>
+<br>
+
+<p align="center">Herramientas para la respuesta ante incidentes, adquisición de evidencias y análisis forense digital.</p>
 
 | Herramienta | Descripción | Licencia |
 | :--- | :--- | :--- |
@@ -57,18 +87,32 @@ Herramientas para la respuesta ante incidentes, adquisición de evidencias y an�
 | **[Autopsy](https://www.autopsy.com/)** | Plataforma forense digital y una interfaz gráfica para The Sleuth Kit y otras herramientas forenses digitales. | Open Source |
 | **[Volatility](https://www.volatilityfoundation.org/)** | Framework avanzado de forense de memoria y análisis de respuesta a incidentes. | Open Source |
 
-## <a name="threat-intelligence"></a>🧠 Threat Intelligence
+<br><br>
 
-Plataformas para gestionar, compartir y analizar inteligencia sobre amenazas.
+<!-- SEPARADOR: THREAT INTEL -->
+<a name="threat-intelligence"></a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&text=THREAT%20INTELLIGENCE&fontColor=000000&height=40&fontSize=22" width="100%"/>
+</div>
+<br>
+
+<p align="center">Plataformas para gestionar, compartir y analizar inteligencia sobre amenazas.</p>
 
 | Herramienta | Descripción | Licencia |
 | :--- | :--- | :--- |
 | **[MISP](https://www.misp-project.org/)** | Plataforma de intercambio de información sobre malware y amenazas. Estándar de facto en la industria para compartir IOCs. | Open Source |
 | **[OpenCTI](https://www.opencti.io/)** | Plataforma para gestionar el conocimiento de ciberamenazas y observables. Estructura, almacena, organiza y visualiza información técnica y no técnica. | Open Source |
 
-## <a name="endpoint-security--edr"></a>💻 Endpoint Security & EDR
+<br><br>
 
-Seguridad a nivel de endpoint y detección y respuesta.
+<!-- SEPARADOR: EDR -->
+<a name="endpoint-security--edr"></a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&text=ENDPOINT%20SECURITY%20&%20EDR&fontColor=000000&height=40&fontSize=22" width="100%"/>
+</div>
+<br>
+
+<p align="center">Seguridad a nivel de endpoint y detección y respuesta.</p>
 
 | Herramienta | Descripción | Licencia |
 | :--- | :--- | :--- |
@@ -76,9 +120,16 @@ Seguridad a nivel de endpoint y detección y respuesta.
 | **[Bluespawn](https://github.com/ION28/BLUESPAWN)** | Herramienta activa de defensa y detección para Windows. Actúa como EDR y herramienta de respuesta. | Open Source |
 | **[Sysmon](https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon)** | Utilidad de Windows Sysinternals que monitoriza y registra la actividad del sistema en el registro de eventos de Windows. | Freeware |
 
-## <a name="malware-analysis"></a>🦠 Malware Analysis
+<br><br>
 
-Entornos y herramientas para analizar software malicioso de forma segura.
+<!-- SEPARADOR: MALWARE -->
+<a name="malware-analysis"></a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&text=MALWARE%20ANALYSIS&fontColor=000000&height=40&fontSize=22" width="100%"/>
+</div>
+<br>
+
+<p align="center">Entornos y herramientas para analizar software malicioso de forma segura.</p>
 
 | Herramienta | Descripción | Licencia |
 | :--- | :--- | :--- |
@@ -86,37 +137,58 @@ Entornos y herramientas para analizar software malicioso de forma segura.
 | **[REMnux](https://remnux.org/)** | Kit de herramientas Linux para ingeniería inversa y análisis de malware. | Open Source |
 | **[Ghidra](https://ghidra-sre.org/)** | Suite de herramientas de ingeniería inversa de software (SRE) desarrollada por la NSA. | Open Source |
 
-## <a name="honeypots"></a>🍯 Honeypots
+<br><br>
 
-Sistemas señuelo para detectar y analizar ataques.
+<!-- SEPARADOR: HONEYPOTS -->
+<a name="honeypots"></a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&text=HONEYPOTS&fontColor=000000&height=40&fontSize=22" width="100%"/>
+</div>
+<br>
+
+<p align="center">Sistemas señuelo para detectar y analizar ataques.</p>
 
 | Herramienta | Descripción | Licencia |
 | :--- | :--- | :--- |
 | **[T-Pot](https://github.com/telekom-security/tpotce)** | Plataforma de honeypot todo en uno que incluye múltiples honeypots y herramientas de visualización (ELK). | Open Source |
 | **[Cowrie](https://github.com/cowrie/cowrie)** | Honeypot de interacción media SSH y Telnet diseñado para registrar ataques de fuerza bruta y la interacción del shell. | Open Source |
 
----
+<br><br>
 
-## <a name="recursos-adicionales"></a>📚 Recursos Adicionales
+<!-- SEPARADOR: RECURSOS -->
+<a name="recursos-adicionales"></a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&text=RECURSOS%20ADICIONALES&fontColor=000000&height=40&fontSize=22" width="100%"/>
+</div>
+<br>
 
-*   **[Blue Team Handbook](https://www.amazon.com/Blue-Team-Handbook-Incident-Response/dp/1500734756)** - Un libro de referencia rápida para respuesta a incidentes.
-*   **[SANS Blue Team Wiki](https://wiki.sans.blue/)** - Wiki de la comunidad SANS para defensa.
-*   **[Mitre ATT&CK](https://attack.mitre.org/)** - Base de conocimiento de tácticas y técnicas de adversarios.
+* **[Blue Team Handbook](https://www.amazon.com/Blue-Team-Handbook-Incident-Response/dp/1500734756)** - Un libro de referencia rápida para respuesta a incidentes.
+* **[SANS Blue Team Wiki](https://wiki.sans.blue/)** - Wiki de la comunidad SANS para defensa.
+* **[Mitre ATT&CK](https://attack.mitre.org/)** - Base de conocimiento de tácticas y técnicas de adversarios.
 
----
+<br><br>
 
-## <a name="contribuir"></a>🤝 Contribuir
+<!-- SEPARADOR: CONTRIBUIR -->
+<a name="contribuir"></a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&text=CONTRIBUIR&fontColor=000000&height=40&fontSize=22" width="100%"/>
+</div>
+<br>
 
-¡Las contribuciones son bienvenidas! 
+¡Las contribuciones son bienvenidas!
 
-1.  Haz un Fork del proyecto.
-2.  Crea tu rama de funcionalidad (`git checkout -b feature/AmazingFeature`).
-3.  Haz Commit de tus cambios (`git commit -m 'Add some AmazingFeature'`).
-4.  Haz Push a la rama (`git push origin feature/AmazingFeature`).
-5.  Abre un Pull Request.
+1. Haz un Fork del proyecto.
+2. Crea tu rama de funcionalidad (`git checkout -b feature/AmazingFeature`).
+3. Haz Commit de tus cambios (`git commit -m 'Add some AmazingFeature'`).
+4. Haz Push a la rama (`git push origin feature/AmazingFeature`).
+5. Abre un Pull Request.
 
----
+<br><br>
 
-## 📄 Licencia
+<!-- SEPARADOR: LICENCIA -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&text=LICENCIA&fontColor=000000&height=40&fontSize=22" width="100%"/>
+</div>
+<br>
 
-Distribuido bajo la licencia MIT. Ver `LICENSE` para más información.
+<p align="center">Distribuido bajo la licencia MIT. Ver <code>LICENSE</code> para más información.</p>
